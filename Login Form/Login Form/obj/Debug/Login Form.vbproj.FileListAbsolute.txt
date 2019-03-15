@@ -1,0 +1,13 @@
+C:\Users\rojin\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe.config
+C:\Users\rojin\source\repos\Login Form\Login Form\bin\Debug\Login Form.exe
+C:\Users\rojin\source\repos\Login Form\Login Form\bin\Debug\Login Form.pdb
+C:\Users\rojin\source\repos\Login Form\Login Form\bin\Debug\Login Form.xml
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login Form.vbprojAssemblyReference.cache
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Form1.resources
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login_Form.frmCreateAccount.resources
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login_Form.Resources.resources
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login Form.vbproj.GenerateResource.cache
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login Form.vbproj.CoreCompileInputs.cache
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login Form.exe
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login Form.xml
+C:\Users\rojin\source\repos\Login Form\Login Form\obj\Debug\Login Form.pdb
